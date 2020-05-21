@@ -2,6 +2,7 @@ class Person
   def initialize (persons_name)
     @name = persons_name
   end
+end
 
   def name=(persons_name)
     @name = persons_name

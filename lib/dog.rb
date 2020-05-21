@@ -1,2 +1,3 @@
 class Dog
-  def initialized 
+  def initialize
+    @name
